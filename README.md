@@ -1,5 +1,3 @@
-# testHTML
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -680,7 +678,7 @@
                         title: { display: true, text: 'Projected Gross Margin Improvement' }
                     }
                 }
-            });
+            })
 
         });
     </script>
